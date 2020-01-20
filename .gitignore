@@ -1,1 +1,4 @@
 /.idea
+/Backend/venv
+/Backend/__pycache__
+/Backend/requirements.txt
